@@ -19,7 +19,7 @@ const SectionOne = () => {
             </a>
           </div>
           <div>
-            <img src="https://png.pngtree.com/png-vector/20200313/ourmid/pngtree-modern-flat-design-concept-of-app-development-with-characters-on-screen-png-image_2157895.jpg" width="600px" />
+            <img src="../../dist/static/big-data.png" width="600px" />
           </div>
         </div>
       </div>
