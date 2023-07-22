@@ -19,7 +19,7 @@ const SectionOne = () => {
             </a>
           </div>
           <div>
-            <img src="../static/big-data.png" width="600px" />
+            <img src="../../public/static/big-data.png" width="600px" />
           </div>
         </div>
       </div>
