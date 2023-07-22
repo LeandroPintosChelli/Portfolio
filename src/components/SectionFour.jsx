@@ -1,6 +1,6 @@
 const SectionFour = () => {
   return (
-    <div className="flex justify-center items-center py-7">
+    <div id="contacto" className="flex justify-center items-center py-7">
       <div className="w-full">
         <div className="flex flex-row py-0 justify-center">
           <div className="self-center px-5 py-7">
@@ -12,7 +12,7 @@ const SectionFour = () => {
               long term relationship.
             </p>
           </div>
-          <div id="contacto" className="self-center px-5 py-7 flex-col">
+          <div className="self-center px-5 py-7 flex-col">
             <h3 className="text-lg font-serif font-semibold">Email:</h3>
             <p className="font-serif mb-4"> leandropintos162@gmail.com</p>
             <h3 className="text-lg font-serif font-semibold">LinkedIn:</h3>
